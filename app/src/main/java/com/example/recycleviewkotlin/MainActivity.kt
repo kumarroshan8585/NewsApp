@@ -30,16 +30,16 @@ class MainActivity : AppCompatActivity() {
 
         )
         heading= arrayOf(
-            "Mai is duniya ka Raja hu, mai to papa hu, Papa, Iss duniya ka Papa",
-            "Bhayio aur unki behno, Bhaad mai jao",
-            "Tumhare ghar mai bomb fod ke chala jaunga",
-            "Ching chong ching, chang chin chin chu chang cho",
-            "Sabse pehle aapne ghabrana nahi hai",
-            "Mai Hitler ka door ka rishtedaar hu",
-            "Mai Kya bolu, mujhe to kuch pata hi nahi hai",
-            "Yaar mai chinese nahi hu yaar",
-            "Bhai terko 100 baar bol diya Kohinoor mangne mat aajya karo mere paas",
-            "Mujhe kya mai to aise hi aa gya list bharne"
+            "Kim Jong Un set to launch ICBM in pacific ocean",
+            "Modi Announces Bold Economic Reforms to Accelerate India's Growth",
+            "Putin Engages in High-Level Diplomatic Talks to Strengthen Russia's Global Influence",
+            "Xi Jinping Unveils Ambitious Plans for China's Technological Advancement",
+            "Imran Khan Spearheads Initiatives to Foster Peace and Stability in South Asia",
+            "Olaf Scholz Assumes Office as Germany's New Chancellor, Pledges Progressive Agenda",
+            "Justin Trudeau Implements Climate Change Policies to Combat Environmental Challenges",
+            "Fumio Kishida Takes Charge as Japan's Prime Minister, Focuses on Economic Revitalization",
+            "Rishi Sunak Unveils Comprehensive Budget Plans to Support UK's Post-Pandemic Recovery",
+            "Erdogan Makes Bold Moves to Cement Turkey's Position on the Global Stage"
 
 
         )
